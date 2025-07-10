@@ -59,6 +59,10 @@ C:.
 ##### Eingabe ist auch möglich mit einem unären Minus, mathematische Konstanten wie $e$=2.71 oder $\Pi$ =3.14, auch verwendung von einem Ausdruck ohne eine Variable ist möglich.
 
 ##### Die Eingabe von bis zu 5 Funktionen die farblich voneinander unterschliedlich sind, ist möglich.
+##### Bei einem Parser-Fehler von einer Funktion wird keine Funktion geplottet
+#### Bei einer Divsion durch 0 , wird auch auch keine funktion geplottet wie z.B. 1/0 aber der AST Baum wird angezeigt 
+
+falls es aus irgendeinem Grund nicht ganz funktioniert bei einer Eingabe in dem Input Feld nicht funktioniert, dann bitte versuchen, die Eingabe bitte vom Code direkt ändert,falls es nciht funktioniert
 
 ***Paar Illustrationen von dem Funktionsplotter***
 
