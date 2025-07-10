@@ -76,12 +76,18 @@ falls es aus irgendeinem Grund nicht ganz funktioniert bei einer Eingabe in dem 
 ![Bild5](./Screenshot%202025-07-10%20204400.png)
 
 #### Sie können das Projekt unter Mein GitHub sehen:
-[GitHub Repository](https://github.com/omaraljasem7/FunctionPlotterProject.git)
-
-- siehe Live View Programming Repository Als Refernz :
-[LiveViewProgramming](https://github.com/denkspuren/LiveViewProgramming/tree/main)
+[GitHub Repository](https://github.com/omaraljasem7/FunctionPlotterProject.git) 
+and to clone the project use:
+```
+git clone https://github.com/omaraljasem7/FunctionPlotterProject.git
+```
 
 - zum Starten der Server tippe in der cmd :
 ``` java 
 java -jar lvp-0.5.4.jar --log --watch=demo.java
 ```
+
+
+- siehe Live View Programming Repository Als Refernz :
+[LiveViewProgramming](https://github.com/denkspuren/LiveViewProgramming/tree/main)
+
