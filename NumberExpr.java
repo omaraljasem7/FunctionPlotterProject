@@ -1,0 +1,1 @@
+public record NumberExpr(double value) implements Expr { }
