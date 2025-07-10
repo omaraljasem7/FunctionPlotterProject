@@ -77,3 +77,11 @@ falls es aus irgendeinem Grund nicht ganz funktioniert bei einer Eingabe in dem 
 
 #### Sie können das Projekt unter Mein GitHub sehen:
 [GitHub Repository](https://github.com/omaraljasem7/FunctionPlotterProject.git)
+
+- siehe Live View Programming Repository Als Refernz :
+[LiveViewProgramming](https://github.com/denkspuren/LiveViewProgramming/tree/main)
+
+- zum Starten der Server tippe in der cmd :
+``` java 
+java -jar lvp-0.5.4.jar --log --watch=demo.java
+```
